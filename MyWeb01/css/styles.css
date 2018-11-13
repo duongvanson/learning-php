@@ -1,0 +1,19 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+header,footer{
+	height: 100px;
+	text-align: center;
+	background: #222;
+}
+.logo{
+	color: #fff;
+}
+#side-l{
+	float: left;
+	width: 40%;
+	background: #555;
+	min-height: 500px;
+}
