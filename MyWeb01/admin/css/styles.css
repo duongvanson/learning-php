@@ -36,12 +36,3 @@ div#dangky input, div#dangnhap input{
 	color: red;
 	font-weight: bold;
 }
-/*Bai viet*/
-.post{
-	float: left;
-	width: 25%;
-	padding: 10px;
-}
-.tieude{
-	color: red;
-}
